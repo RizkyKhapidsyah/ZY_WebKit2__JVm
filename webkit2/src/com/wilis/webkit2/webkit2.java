@@ -13,6 +13,6 @@ public class webkit2 extends Activity {
 		setContentView(R.layout.main);
 		browser=(WebView)findViewById(R.id.webkit);
 		
-		browser.loadUrl("http://nazruddinsyafaat.blogspot.com");
+		browser.loadUrl("http://google.com");
 	}
 }
